@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "about me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabby97/Portfolio.git"
+  },
+  "author": "Gaby Acevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabby97/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Gabby97/Portfolio#readme"
+}
